@@ -361,3 +361,5 @@ sub run_redirect {
 }
 
 1;
+
+=encoding utf8
