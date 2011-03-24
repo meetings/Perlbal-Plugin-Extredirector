@@ -5,6 +5,7 @@ use strict;
 use warnings;
 no  warnings qw(deprecated);
 
+use Perlbal;
 use Socket;
 use IPC::Open2;
 use Net::Netmask;
